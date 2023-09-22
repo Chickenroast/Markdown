@@ -25,3 +25,5 @@ Your computer is connected to the internet service provider.
 
 #### 📦 What is a package ?  
 A package **information was fragmented** and send to the internet. When all packages come to the destination they are reassembled. **Routers help packages** to be **unique** with **layers are added** from the way and whith that layers the information can **come back more easy.**
+
+*This theory file has been reviewed by Bryan Schutters*
